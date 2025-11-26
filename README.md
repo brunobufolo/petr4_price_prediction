@@ -29,6 +29,20 @@ A imagem abaixo é salva automaticamente pelo script como:
 
 <img width="842" height="737" alt="image" src="https://github.com/user-attachments/assets/11b4ec6b-60c7-476f-bf16-54172c470dc1" />
 
+---
+
+
+📁 Estrutura do Projeto
+petr4_price_prediction/
+│
+├── src/                # Scripts de pré-processamento, treino e funções auxiliares
+├── notebooks/          # Jupyter Notebooks usados no desenvolvimento
+├── image/              # Imagens de gráficos e visualizações
+├── output/             # Resultados finais (CSV, PNG, etc.)
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 
 ---
 
