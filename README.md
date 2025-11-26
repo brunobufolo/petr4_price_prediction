@@ -67,13 +67,13 @@ A LSTM conseguiu:
 ➡️ Excelente para séries complexas, como: ações, cripto, tráfego, sinais biomédicos
 
 ### **Tecnologias**
-pandas
-numpy
-scikit-learn
-tensorflow
-yfinance
-matplotlib
-seaborn
-pmdarima
+- pandas
+- numpy
+- scikit-learn
+- tensorflow
+- yfinance
+- matplotlib
+- seaborn
+- pmdarima
 
 
