@@ -1,7 +1,7 @@
 # Previsões de PETR4 — Comparação ARIMA vs Random Forest vs LSTM  
 Treino até 2023 • Teste 2024 • Previsões para 2025
 
-Este projeto teve como objetivo **comparar diferentes modelos de previsão** ao tentar antecipar o preço diário da PETR4.  
+Este mini projeto teve como objetivo **comparar diferentes modelos de previsão** ao tentar antecipar o preço diário da PETR4.  
 O foco não é fornecer recomendações de investimento, mas **testar como algoritmos diferentes se comportam diante de uma série altamente volátil**.
 
 ---
